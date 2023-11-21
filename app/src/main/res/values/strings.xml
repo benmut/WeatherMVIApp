@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">WeatherMVIApp</string>
+    <string name="blank">\"\"</string>
+    <string name="error_general_data_retrieve">An error occurred while fetching data. Please try again</string>
+
+    <string name="open_navigation_drawer">Open navigation drawer</string>
+    <string name="close_navigation_drawer">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="weather">Weather</string>
+    <string name="Favorites">Favorites</string>
+    <string name="locations">Locations</string>
+    <string name="action_favorite">action favorite</string>
+    <string name="name">name</string>
+</resources>
